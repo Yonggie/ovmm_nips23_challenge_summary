@@ -1,11 +1,12 @@
-# Summary
-The leaderboard: ![](./imgs/result.png)
+# Leaderboard: 
+
+![](./imgs/result.png)
 
 # Solution
-## 1st place:
+## 1st place(KuzHum):
 ![](./imgs/1st.png)
 
-## 2st place
+## 2st place(UniTeam)
 ![](./imgs/2nd.png)
 # Material
 1st place [arxiv](https://arxiv.org/pdf/2401.12048), [video](https://youtu.be/pUUMgMvF9B4)
